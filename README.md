@@ -7,7 +7,7 @@
 Omnifood is a mock food delivery company's website. \
 This project showcase responsive web design, intersection API and various web design principles.
 
-## How to use the Project
+## How to run the Project
 
 Poject in live on [*THIS LINK*](https://siddhart-singh.github.io/OmniFood/).
 
