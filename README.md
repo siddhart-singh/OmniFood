@@ -1,5 +1,7 @@
 # OmniFood
 
+![OmniFood](./content/img/readme_image.png)
+
 ## Description
 
 Omnifood is a mock food delivery company's website. \
