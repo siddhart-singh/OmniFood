@@ -9,7 +9,7 @@ This project showcase responsive web design, intersection API and various web de
 
 ## How to run the Project
 
-Poject is live on [*THIS LINK*](https://siddhart-singh.github.io/OmniFood/).
+Poject is live at [*THIS LINK*](https://siddhart-singh.github.io/OmniFood/).
 
 ### Technology
 
