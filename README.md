@@ -16,7 +16,7 @@ Poject is live on [*THIS LINK*](https://siddhart-singh.github.io/OmniFood/).
 1. HTML, CSS
 2. Javascript
 3. Linux
-4. Git
+4. [Git](https://git-scm.com/)
 3. [Ion Icons](https://ionic.io/ionicons)
 4. [Icons8](https://icons8.com/)
 5. [Google Fonts](https://fonts.google.com/)
